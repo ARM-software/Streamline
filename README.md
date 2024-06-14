@@ -34,13 +34,20 @@ When raising bug report issues please be as specific and complete as possible.
 We are far more likely to be able to resolve a bug if we have enough
 information to reproduce it ourselves.
 
-# Support
+## Support
 
 For Streamline-specific questions and issues, please raise an issue on the
 GitHub issue tracker.
 
 For more general support about developing and optimizing software for Arm CPUs
 and Arm GPUs, please raise issues on the relevant [Arm Community forum][4].
+
+# Related projects
+
+The data collection agent used by Streamline, known as `gator` or `sl-record`,
+is an open-source component that is also available on GitHub:
+
+* https://github.com/ARM-software/gator
 
 - - -
 
